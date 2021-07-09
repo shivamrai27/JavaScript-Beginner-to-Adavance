@@ -772,6 +772,6 @@ Dec  Char     Dec  Char     Dec  Char
 
 let name = "shivAmRai"
 
-console.log(name)
-console.log(name.toUpperCase())
-console.log(name.toLowerCase())
+// console.log(name)
+// console.log(name.toUpperCase())
+// console.log(name.toLowerCase())
